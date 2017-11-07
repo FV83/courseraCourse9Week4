@@ -1,2 +1,2 @@
-1. Load eurostat by running load eurostat data.R
-2. Run the app
+1. Load eurostat by running "load eurostat data.R" (or put estat.Rdata in your working directory)
+2. Put ui and server in your working directory and run the app
